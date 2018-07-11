@@ -15,6 +15,7 @@ const Container = styled.div`
   position: fixed;
   right: 50%;
   bottom: 50%;
+  margin-right: -20px;
   color: ${colors.secondaryColor};
   font-size: ${typography.font.size.xSmall};
   z-index: 999;
